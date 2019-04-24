@@ -1,0 +1,8 @@
+﻿1. 相机配置文件
+	类型为 CogToolBlock, 包含3个 CogAcqFifoTool，按顺序为相机1，相机2，相机3
+
+2. 产品视觉文件
+	类型为 CogToolBlock，包含3个 CogToolBlock，按顺序分别为相机1的程序，相机2的程序，相机3的程序。
+
+3. 每个相机的 CogToolBlock
+	Outputs 为检测结果数据，类型必须为数字类型。

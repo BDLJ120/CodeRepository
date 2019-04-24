@@ -1,0 +1,32 @@
+﻿CogJobManagerEdit 控件的工具栏按钮名称
+toolBar1 
+{
+	btnRunButton
+	Sep1
+	btnFileOpen
+	btnFileSave
+	btnFileSaveAs
+	Sep2
+	btnAddJob
+	btnImportToolGroup
+	btnJobOpen
+	btnJobSave
+	btnJobSaveAs
+	Sep3
+	btnReset
+	btnContinuousRun
+	Sep4
+	btnOnline
+	btnIOExplorer
+	btnUserQueue
+	Sep5
+	btnFloatingResults
+	Sep6
+	btnConfiguration
+	btnView
+	Sep7
+	btnToolTips
+	Sep8
+	btnSampleCode
+	btnHelp
+}
